@@ -1,0 +1,169 @@
+{
+  "philosophy": "I believe in practical, hands-on learning that bridges the gap between theoretical knowledge and real-world application. Having transitioned from Electronics Engineering to Software Development myself, I understand the challenges of learning new technologies. My training sessions focus on building problem-solving skills through live coding, real-world projects, and interactive discussions. I emphasize understanding the 'why' behind every piece of code — because a developer who understands principles can adapt to any technology.",
+  "experiences": [
+    {
+      "institution": "TechLift Bootcamp (P@SHA, PSEB & Excellence Delivered)",
+      "course": "Java & Spring Boot Development",
+      "duration": "Dec 2022 - Mar 2023",
+      "year": "2022-2023",
+      "description": "Led Pakistan's first-ever free IT bootcamp as Java/Spring Lead Trainer. Designed comprehensive curriculum covering Core Java, Spring Boot, REST APIs, and database integration. Delivered classroom instruction, provided one-on-one coaching, and evaluated student progress. Trained unemployed and underemployed graduates to launch careers in software development.",
+      "photo": "/data/images/training/techlift.jpg",
+      "logo": "/data/images/training/techlift_logo.png",
+      "website": "https://techlift.pk/"
+    },
+    {
+      "institution": "CodeGirls",
+      "course": "Backend Development & APIs Training",
+      "duration": "Apr 2025 - Jul 2025",
+      "year": "2025",
+      "description": "Contributed to CodeGirls' mission of empowering women through vocational IT training and bridging the gender gap in tech. Delivered hands-on training on backend development, APIs, and practical coding practices. Guided students through real-world projects, best practices, and debugging techniques. Mentored participants to improve problem-solving, teamwork, and coding confidence as part of a social responsibility initiative to empower future tech talent.",
+      "photo": "/data/images/training/codegirls.jpg",
+      "logo": "/data/images/training/codegirls_logo.png",
+      "website": "https://codegirls.consulnet.net/",
+      "linkedin": "https://www.linkedin.com/posts/codegirlskhi_java-codegirls-newcohort-activity-7321337157803995137-F8wj?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAZ7n34BRqV54hsRxkW5TIyTDJ3E2qTKXRg"
+    }
+  ],
+  "testimonials": [
+    {
+      "name": "Irtaza Hussain",
+      "role": "TechLift Bootcamp",
+      "text": "Sir Syed Sibt-e-Haider, I was very lucky that I got a mentor like you that's why I am very thankful to you that you taught me and others. And the whole feedback is only for you sir and if someday I'll get a chance to choose trainer or mentor then without any thoughts I'll be choosing you sir. There is much more things to say but I'm really really grateful and thankful to you and in the future I'll be sir...",
+      "photo": ""
+    },
+    {
+      "name": "Hamid Tariq",
+      "role": "TechLift Bootcamp",
+      "text": "I had an amazing learning experience with professional trainers who were not only knowledgeable in their field, but also had excellent teaching and training skills. Sir Sibt-e-Haider was an amazing teacher who taught things slowly but with deep understanding. He had a unique way of leading the class and taking every single person as a single target to teach, which was a required attitude for a teacher. He was patient, kind and always willing to help whenever someone was struggling. His teaching style was so effective that I found myself retaining more information than I ever thought possible. They are truly exceptional teachers who surpassed even the PhD level professors at my university which is considered number 1 in IT department (COMSATS university).",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/hamidtariq/"
+    },
+    {
+      "name": "Zainab",
+      "role": "TechLift Bootcamp",
+      "text": "He is such brilliant trainer, supportive and a very helpful person...because of his friendly nature he always make his students comfortable to learn things easily.",
+      "photo": ""
+    },
+    {
+      "name": "Fatima Ilyas",
+      "role": "TechLift Bootcamp",
+      "text": "Such a great experience. I learnt a lot of things even I can't learn in university level. Sir Haider and Sir Enan such a gems. They play very important role for my learning journey. Seriously thank you Contour and TechLift for providing this learning platform. The trainers are so friendly. Allah always bless you both. Allah gives lot of success. Thank you Sir Haider and Sir Enan!",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/fatima-i-988481231/"
+    },
+    {
+      "name": "Sana Narejo",
+      "role": "TechLift Bootcamp",
+      "text": "Sir Sibtehaider is a great person and mentor. The way of teaching is amazing and never left any student behind until he/she understands the topic completely.",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/sana-narejo/"
+    },
+    {
+      "name": "Tuba Islam",
+      "role": "TechLift Bootcamp",
+      "text": "Ma'am Natasha, Sir Sibte Haider, Sir Enan - they all are very supportive, kind and best teachers. They focused on each and every student everyday. They worked hard for their students. Gave extra time to students and focused on their learning and groom the students technically and non-technically too.",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/syeda-tuba-islam-9a533217b/"
+    },
+    {
+      "name": "Tehreem Khan",
+      "role": "CodeGirls Training",
+      "text": "I found the real world examples and analogies you used to give very interesting. The way you incorporated code with LLD, best practices and clean code architecture was no doubt clear and concise. I suggest you to launch your course on Udemy or similar platform so that others can benefit from your guidance as well. Thank you Sir you have done a great job!",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/tehreemk/"
+    },
+    {
+      "name": "Namra Mahmood",
+      "role": "CodeGirls Training",
+      "text": "It was an amazing experience learning with Sir Haider. The way he cleared all the concepts is commendable. Really grateful for taking this course. Would definitely recommend this to others.",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/namra-mahmood-83a84b116/"
+    },
+    {
+      "name": "Maliha Habib",
+      "role": "CodeGirls Training",
+      "text": "This was an excellent IT training - well-structured and highly effective, led by a knowledgeable and supportive trainer.",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/maliha-habib-769620155/"
+    },
+    {
+      "name": "Areen Fatima",
+      "role": "CodeGirls Training",
+      "text": "This session provided the best learning outcome in such a short time.",
+      "photo": ""
+    },
+    {
+      "name": "Abu Hurera",
+      "role": "TechLift Bootcamp",
+      "text": "Best teacher! Encouraged learning and never made anyone feel lesser if they did not know the answer.",
+      "photo": ""
+    },
+    {
+      "name": "Ali Hyder",
+      "role": "TechLift Bootcamp",
+      "text": "Sir Sibte Haider is very humble and friendly. He used to give realtime examples and explains technical topics in very easy way.",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/ali-hyder-memon/"
+    },
+    {
+      "name": "Amara Hussain",
+      "role": "TechLift Bootcamp",
+      "text": "Really appreciate how trainer was always available to listen to queries and guide a way out in problems. Really glad to be taught under such trainer.",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/amara-patel-b2ba261b6/"
+    },
+    {
+      "name": "Pawan Kumar",
+      "role": "TechLift Bootcamp",
+      "text": "Best trainer, flow of training and delivering lecture is very interesting.",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/pawan-kumar-3a4528160/"
+    },
+    {
+      "name": "Akshay",
+      "role": "TechLift Bootcamp",
+      "text": "Trainers are very cooperative and friendly.",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/akshay-ahuja-ba309b135/"
+    },
+    {
+      "name": "Syed Shahzaman Haider",
+      "role": "TechLift Bootcamp",
+      "text": "The Trainer was very professional and knowledgeable. It helped me a lot in training.",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/sha-haider/"
+    },
+    {
+      "name": "Zakir Hussain",
+      "role": "TechLift Bootcamp",
+      "text": "I have learned many things from trainer and enjoyed. This training will be helpful in my professional career. Trainers are best.",
+      "photo": ""
+    },
+    {
+      "name": "Bisham Kumar",
+      "role": "TechLift Bootcamp",
+      "text": "Our trainer is so good to teach student point to point. They respect our students not only in bootcamp but outside bootcamp he helped our students any time. Great trainer.",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/bisham-java-dev/"
+    },
+    {
+      "name": "Muhammad Zain Aleem",
+      "role": "TechLift Bootcamp",
+      "text": "Best teacher ever!",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/zain-aleem15/"
+    },
+    {
+      "name": "Shafaat Ali",
+      "role": "TechLift Bootcamp",
+      "text": "Sir Haider is the best!",
+      "photo": ""
+    },
+    {
+      "name": "Nafeesa Akhter",
+      "role": "TechLift Bootcamp",
+      "text": "The teacher's behavior is very humble and approachable.",
+      "photo": "",
+      "linkedin": "https://www.linkedin.com/in/nafeesa-akhter-7982b021a/"
+    }
+  ]
+}

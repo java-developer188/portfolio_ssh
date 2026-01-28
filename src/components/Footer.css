@@ -1,0 +1,136 @@
+/* ========================================
+   Footer Section Styles
+   ======================================== */
+
+.footer {
+  background-color: var(--bg-primary);
+  border-top: 1px solid var(--border-primary);
+  padding: 60px 0 24px;
+}
+
+.footer-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 48px;
+  padding-bottom: 40px;
+  border-bottom: 1px solid var(--border-primary);
+}
+
+/* Footer Main */
+.footer-main {
+  max-width: 400px;
+}
+
+.footer-logo {
+  font-family: var(--font-mono);
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--text-primary);
+  margin-bottom: 16px;
+}
+
+.footer-logo .logo-bracket {
+  color: var(--accent-blue);
+}
+
+.footer-tagline {
+  font-family: var(--font-mono);
+  font-size: 1rem;
+}
+
+.footer-tagline .comment {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+/* Footer Connect */
+.footer-connect {
+  text-align: right;
+}
+
+.footer-title {
+  font-family: var(--font-mono);
+  font-size: 1rem;
+  color: var(--text-primary);
+  margin-bottom: 16px;
+}
+
+.footer-title::before {
+  content: '> ';
+  color: var(--accent-green);
+}
+
+.footer-social {
+  display: flex;
+  gap: 16px;
+}
+
+.social-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  background-color: var(--bg-secondary);
+  border: 1px solid var(--border-primary);
+  border-radius: var(--border-radius);
+  color: var(--text-secondary);
+  transition: all var(--transition-fast);
+}
+
+.social-link:hover {
+  background-color: var(--accent-blue);
+  border-color: var(--accent-blue);
+  color: var(--bg-primary);
+  transform: translateY(-2px);
+}
+
+/* Footer Bottom */
+.footer-bottom {
+  padding-top: 24px;
+  text-align: center;
+}
+
+.footer-copyright {
+  font-family: var(--font-mono);
+  font-size: 0.9rem;
+  color: var(--text-secondary);
+  margin-bottom: 8px;
+}
+
+.footer-copyright .keyword {
+  color: var(--accent-purple);
+}
+
+.footer-copyright .comment {
+  color: var(--text-muted);
+  font-style: italic;
+}
+
+.footer-credit {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.footer-credit .highlight {
+  color: var(--accent-green);
+  font-weight: 500;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .footer-connect {
+    text-align: center;
+  }
+
+  .footer-main {
+    text-align: center;
+  }
+}

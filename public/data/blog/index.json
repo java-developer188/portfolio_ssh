@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Getting Started with Spring Boot in 2024",
+    "excerpt": "A comprehensive guide to setting up your first Spring Boot application with best practices and modern tooling.",
+    "date": "2024-01-15",
+    "readTime": "8 min read",
+    "tags": ["Java", "Spring Boot", "Tutorial"],
+    "file": "spring-boot-getting-started.md"
+  },
+  {
+    "id": "2",
+    "title": "Understanding REST API Design Principles",
+    "excerpt": "Learn the fundamentals of designing clean, scalable, and maintainable REST APIs that developers love to use.",
+    "date": "2024-02-10",
+    "readTime": "6 min read",
+    "tags": ["REST API", "Backend", "Best Practices"],
+    "file": "rest-api-design.md"
+  },
+  {
+    "id": "3",
+    "title": "Why Clean Code Matters",
+    "excerpt": "Exploring the importance of writing clean, readable code and how it impacts team productivity and project success.",
+    "date": "2024-03-05",
+    "readTime": "5 min read",
+    "tags": ["Clean Code", "Best Practices", "Career"],
+    "file": "clean-code-matters.md"
+  }
+]

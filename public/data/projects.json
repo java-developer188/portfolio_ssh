@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Energy Khata",
+    "description": "A mobile application for tracking and managing energy consumption, built with Kotlin for Android.",
+    "thumbnail": "/data/images/projects/energykhata_icon.webp",
+    "tags": ["Kotlin", "Android", "Mobile App"],
+    "githubUrl": "https://github.com/java-developer188/energyKhata",
+    "liveUrl": ""
+  },
+  {
+    "id": "2",
+    "title": "CSL Project",
+    "description": "Full-stack application with TypeScript frontend and Java backend for CSL management system.",
+    "thumbnail": "/data/images/projects/csl_icon.jpg",
+    "tags": ["TypeScript", "Java", "Full Stack"],
+    "githubUrl": "https://github.com/java-developer188/csl_frontend",
+    "liveUrl": ""
+  },
+  {
+    "id": "3",
+    "title": "Cricket Captain 2023",
+    "description": "A cricket simulation game built in Java with game management and team strategy features.",
+    "thumbnail": "/data/images/projects/cc23_icon.jpeg",
+    "tags": ["Java", "Game Development"],
+    "githubUrl": "https://github.com/java-developer188/CricketCaptain2023",
+    "liveUrl": ""
+  },
+  {
+    "id": "4",
+    "title": "Smart TimeTable",
+    "description": "An intelligent timetable scheduling system with mobile and server components for educational institutions.",
+    "thumbnail": "/data/images/projects/smart_time_table_icon.png",
+    "tags": ["Java", "JavaScript", "Full Stack"],
+    "githubUrl": "https://github.com/java-developer188/SmartTimeTable",
+    "liveUrl": ""
+  }
+]

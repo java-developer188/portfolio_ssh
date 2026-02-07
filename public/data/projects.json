@@ -34,5 +34,14 @@
     "tags": ["Java", "JavaScript", "Full Stack"],
     "githubUrl": "https://github.com/java-developer188/SmartTimeTable",
     "liveUrl": ""
+  },
+  {
+    "id": "5",
+    "title": "Kon Banega Crorepati",
+    "description": "A KBC-inspired quiz game with 100 questions across 10 categories, 3 lifelines (SSH, 50/50, Public Opinion), animated BGI graphics, and randomized gameplay. Built in C with Turbo C BGI Graphics.",
+    "thumbnail": "/data/images/projects/KBC.png",
+    "tags": ["C", "BGI Graphics", "Game Development"],
+    "githubUrl": "https://github.com/java-developer188/kbc",
+    "liveUrl": "https://onlinegdb.com/UVt-nMBQi"
   }
 ]

@@ -76,6 +76,12 @@ function Footer() {
           <p className="footer-credit">
             Designed & Developed by <span className="highlight">Syed Sibte Haider</span>
           </p>
+          <div className="footer-visitors">
+            <img
+              src="https://visitor-badge.laobi.icu/badge?page_id=syedsibtehaider.vercel.app"
+              alt="visitor count"
+            />
+          </div>
         </div>
       </div>
     </footer>

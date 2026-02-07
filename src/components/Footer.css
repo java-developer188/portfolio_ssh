@@ -118,6 +118,22 @@
   font-weight: 500;
 }
 
+/* Visitor Counter */
+.footer-visitors {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  margin-top: 8px;
+  font-family: var(--font-mono);
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.footer-visitors svg {
+  color: var(--accent-green);
+}
+
 /* Responsive */
 @media (max-width: 768px) {
   .footer-content {

@@ -165,12 +165,16 @@ function Training() {
                     )}
                   </div>
                   <div className="testimonial-author">
-                    <div
-                      className="testimonial-avatar"
-                      style={{ backgroundColor: getAvatarColor(testimonial.name) }}
-                    >
-                      {getInitials(testimonial.name)}
-                    </div>
+                    {testimonial.photo ? (
+                      <img className="testimonial-photo" src={testimonial.photo} alt={testimonial.name} />
+                    ) : (
+                      <div
+                        className="testimonial-avatar"
+                        style={{ backgroundColor: getAvatarColor(testimonial.name) }}
+                      >
+                        {getInitials(testimonial.name)}
+                      </div>
+                    )}
                     <div className="testimonial-info">
                       <span className="testimonial-name">{testimonial.name}</span>
                       <span className="testimonial-role">{testimonial.role}</span>

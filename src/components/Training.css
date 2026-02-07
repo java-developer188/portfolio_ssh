@@ -321,25 +321,26 @@
 }
 
 .testimonial-avatar {
-  width: 48px;
-  height: 48px;
+  width: 56px;
+  height: 56px;
   border-radius: 50%;
   display: flex;
   align-items: center;
   justify-content: center;
   font-family: var(--font-mono);
   font-weight: 700;
-  font-size: 1rem;
+  font-size: 1.1rem;
   color: var(--bg-primary);
   flex-shrink: 0;
 }
 
 .testimonial-photo {
-  width: 48px;
-  height: 48px;
+  width: 56px;
+  height: 56px;
   border-radius: 50%;
   object-fit: cover;
   border: 2px solid var(--accent-green);
+  flex-shrink: 0;
 }
 
 .testimonial-info {

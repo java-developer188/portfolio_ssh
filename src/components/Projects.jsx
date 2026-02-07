@@ -88,6 +88,14 @@ function Projects() {
                     <span key={index} className="tag">{tag}</span>
                   ))}
                 </div>
+                {project.liveUrl && (
+                  <span className="project-info-icon" tabIndex="0">
+                    i
+                    <span className="project-info-tooltip">
+                      Tip: If the live demo link doesn't load properly, try disabling your ad blocker or opening it in incognito mode.
+                    </span>
+                  </span>
+                )}
               </div>
             </article>
           ))}
